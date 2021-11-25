@@ -2,6 +2,9 @@
 
 > https://github.com/RubiscoQAQ/Seennomaly_Simple
 
+视频过大，无法上传，已经上传至https://rubisco.cn/tool.mp4
+
+
 ## 项目运行说明
 
 > 运行要求：
